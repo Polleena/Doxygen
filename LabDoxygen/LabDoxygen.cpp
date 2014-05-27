@@ -1,4 +1,4 @@
-// LabDoxygen.cpp: определяет точку входа для консольного приложения.
+// LabDoxygen.cpp: Defines the entry point for the console application.
 //
 ///Sortirovka puzirkom
 /// \file labDoxygen.cpp
